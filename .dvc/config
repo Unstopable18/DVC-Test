@@ -1,0 +1,3 @@
+['remote "origin"']
+    url = s3://dv
+    endpointurl = https://dagshub.com/vdeshmukh/DVC-Test.s3
